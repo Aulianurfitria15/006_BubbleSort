@@ -77,7 +77,7 @@ int main() {
 	display();   // display the sorted array
 	system("pause");
 
-	return 0;
+	return 0;
 }
 
 
